@@ -198,6 +198,7 @@ class Premailer
                 :preserve_reset => true,
                 :verbose => false,
                 :debug => false,
+                :ignore_unmerged_css => false,
                 :io_exceptions => false,
                 :include_link_tags => true,
                 :include_style_tags => true,
